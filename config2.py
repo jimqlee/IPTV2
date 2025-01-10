@@ -2,7 +2,8 @@ ip_version_priority = "ipv6"
 
 source_urls = [
     "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-    "https://raw.githubusercontent.com/Wirili/IPTV/refs/heads/main/hotel.m3u"
+    "https://raw.githubusercontent.com/Wirili/IPTV/refs/heads/main/hotel.m3u",
+    "http://aktv.top/live.m3u"
 ]
 
 url_blacklist = [
@@ -45,5 +46,6 @@ epg_urls = [
     "http://epg.aptvapp.com/xml",
     "https://epg.pw/xmltv/epg_CN.xml",
     "https://epg.pw/xmltv/epg_HK.xml",
-    "https://epg.pw/xmltv/epg_TW.xml"
+    "https://epg.pw/xmltv/epg_TW.xml",
+    "https://e.erw.cc/e.xml"
 ]
