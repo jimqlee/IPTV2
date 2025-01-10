@@ -1,7 +1,7 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "http://175.178.251.183:6689/aktvlive.txt",
+    "http://aktv.top/live.m3u",
     "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
     "http://120.79.4.185/new/mdlive.txt",
@@ -65,5 +65,6 @@ epg_urls = [
     "http://epg.aptvapp.com/xml",
     "https://epg.pw/xmltv/epg_CN.xml",
     "https://epg.pw/xmltv/epg_HK.xml",
-    "https://epg.pw/xmltv/epg_TW.xml"
+    "https://epg.pw/xmltv/epg_TW.xml",
+    "https://e.erw.cc/e.xml
 ]
