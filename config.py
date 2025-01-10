@@ -22,8 +22,7 @@ source_urls = [
     "https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
     "https://fm1077.serv00.net/SmartTV.m3u",
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
-    "http://aktv.top/live.m3u"
+    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
 ]
 
 url_blacklist = [
@@ -66,6 +65,5 @@ epg_urls = [
     "http://epg.aptvapp.com/xml",
     "https://epg.pw/xmltv/epg_CN.xml",
     "https://epg.pw/xmltv/epg_HK.xml",
-    "https://epg.pw/xmltv/epg_TW.xml",
-    "https://e.erw.cc/e.xml"
+    "https://epg.pw/xmltv/epg_TW.xml"
 ]
