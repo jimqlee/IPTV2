@@ -66,5 +66,5 @@ epg_urls = [
     "https://epg.pw/xmltv/epg_CN.xml",
     "https://epg.pw/xmltv/epg_HK.xml",
     "https://epg.pw/xmltv/epg_TW.xml",
-    "https://e.erw.cc/e.xml
+    "https://e.erw.cc/e.xml"
 ]
