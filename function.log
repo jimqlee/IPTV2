@@ -1,6 +1,6 @@
-2025-02-25 16:34:02,822 - INFO - url: https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u 获取成功，判断为m3u格式
-2025-02-25 16:34:02,823 - INFO - url: https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u 爬取成功✅，包含频道数：286 包含频道分类: 央视频道, 卫视频道, 体验频道, 浙江频道, 内蒙频道
-2025-02-25 16:34:02,932 - INFO - url: https://raw.githubusercontent.com/Wirili/IPTV/refs/heads/main/hotel.m3u 获取成功，判断为txt格式
-2025-02-25 16:34:03,177 - INFO - url: http://aktv.top/live.m3u 获取成功，判断为m3u格式
-2025-02-25 16:34:03,178 - INFO - url: http://aktv.top/live.m3u 爬取成功✅，包含频道数：119 包含频道分类: AKTV
-2025-02-25 16:34:03,185 - INFO - 爬取完成✅，共计频道数：90
+2025-02-25 20:52:00,112 - INFO - url: https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u 获取成功，判断为m3u格式
+2025-02-25 20:52:00,113 - INFO - url: https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u 爬取成功✅，包含频道数：286 包含频道分类: 央视频道, 卫视频道, 体验频道, 浙江频道, 内蒙频道
+2025-02-25 20:52:00,289 - INFO - url: https://raw.githubusercontent.com/Wirili/IPTV/refs/heads/main/hotel.m3u 获取成功，判断为txt格式
+2025-02-25 20:52:00,391 - INFO - url: http://aktv.top/live.m3u 获取成功，判断为m3u格式
+2025-02-25 20:52:00,391 - INFO - url: http://aktv.top/live.m3u 爬取成功✅，包含频道数：119 包含频道分类: AKTV
+2025-02-25 20:52:00,399 - INFO - 爬取完成✅，共计频道数：90
